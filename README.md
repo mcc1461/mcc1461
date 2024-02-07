@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on "stock-app project"<br>👯 I’m looking to collaborate on "MUI and React related issues"<br>🤝 I’m looking for help with "Redux usage"<br>🌱 I’m currently learning "React, Redux, and MUI"<br>💬 Ask me about "JavaScript, HTML, and CSS"<br>⚡ Familiar with "AXIOS, TAILWIND, BOOTSTRAP, FORMIK, YUP, SWAGGER..."
 
-
+[![](https://visitcount.itsvg.in/api?id=coskuncelebi&label=Profile%20Views&color=8&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mcoskuncelebi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mcc1461a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mcc1461a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mcc1461) 
 

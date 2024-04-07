@@ -71,15 +71,6 @@ With a proven track record of delivering high-quality solutions, I am driven by 
 | [Recipe App](https://recipe-app-mcc1461.netlify.app/) |  React, Firebase, Context API, axios, MUI, Cypress | [Repo Link](https://github.com/mcc1461/Recipe-App)   |
 | [Movie App](https://movie-app-mcc1461.netlify.app/) | React, Firebase, Tailwind, Context API, axios, react-toastify | [Repo Link](https://github.com/mcc1461/Movie-App)   |
 | [Things Shop](https://things-shop-mcc1461.netlify.app/) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/mcc1461/Things-Shop)   |
-| [Moving Button](https://moving-button-mcc1461.netlify.app/) | React, React-Bootstrap | [Repo Link](https://github.com/mcc1461/moving-button) |
-| [Employee](https://listemployee.netlify.app/) | React, SASS | [Repo Link](https://github.com/esmaaksoy/employee/tree/main?tab=readme-ov-file) |
-| [Birthday](https://birthdaysofauthors.netlify.app/) | React,CSS3 | [Repo Link](https://github.com/mcc1461/birthday) |
-| [M.Foucault](https://foucault.netlify.app/) | React, Module CSS | [Repo Link](https://github.com/mcc1461/M.Foucault) |
-| [Developer](https://comments-developer.netlify.app/) | React, SASS | [Repo Link](https://github.com/mcc1461/Developer) |
-| [World Shop](https://world-shop.netlify.app/) | Bootstrap, SASS, Vite, Vanilla, Local Storage | [Repo Link](https://github.com/mcc1461/world-shop) |
-| [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap, Local Storage | [Repo Link](https://github.com/mcc1461/Checkout-Bootsrapt) |
-| [Hogwarts](https://mcc1461.github.io/Hogwarts-Website/) | Bootstrap | [Repo Link](https://github.com/mcc1461/Hogwarts-Website) |
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

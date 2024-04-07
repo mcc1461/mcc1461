@@ -2,11 +2,11 @@
   
 # 💫 About Me:
 
-As a seasoned front-end developer with a passion for crafting seamless user interfaces, I bring a wealth of expertise in JavaScript and React to every project I undertake. With a keen eye for detail and a dedication to innovation, I thrive in collaborative environments where I can work closely with a committed team to bring ideas to life.
+I utilize JavaScript and React to create beautiful user interfaces as a front-end developer. My attention to detail and commitment to creativity make me thrive in collaborative workplaces where I can bring ideas to life with a dedicated team.
 
-In addition to my front-end proficiency, I boast comprehensive skills in back-end and full-stack development, specializing in the MERN stack (MongoDB, Express, React, Node.js). This holistic approach allows me to seamlessly integrate front-end and back-end functionalities, ensuring a cohesive and efficient user experience from start to finish.
+Along with front-end development, I specialize on MERN stack and full-stack development to create a seamless and efficient user experience by using this holistic approach.
 
-With a proven track record of delivering high-quality solutions, I am driven by a constant desire to push boundaries and tackle new challenges head-on. Whether it's optimizing performance, implementing cutting-edge features, or solving complex problems, I am always ready to contribute my expertise to innovative projects that make a difference. Let's collaborate and create something extraordinary together.
+Together, we can create something amazing.
 
 🔭 I’m currently working on "stock-app project"<br>👯 I’m looking to collaborate on "MUI and React related issues"<br>🤝 I’m looking for help with "Redux usage"<br>🌱 I’m currently learning "MERN"<br>💬 Ask me about "JavaScript, HTML, and CSS"<br>⚡ Familiar with "AXIOS, TAILWIND, BOOTSTRAP, FORMIK, YUP, SWAGGER..."
 ---

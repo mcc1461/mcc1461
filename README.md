@@ -44,6 +44,41 @@
 | [Home Page](https://home-page-mcc1461.netlify.app/) | Node.js, Express.js, Mongoose , MongoDB, CORS, React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/Home-backend)   |
 | [Book Tracker](https://book-tracker-frontend-mcc1461.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/bookTracker-Backend)   |
 
+## ***Backend Projects***
+| Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|
+| [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc, Logs | [Repo Link](https://github.com/mcc1461/personnelAPI)   |
+| [Home Page](https://home-backend-mcc1461.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/mcc1461/Home-backend)   |
+| [Book Tracker](https://booktracker-mcc1461.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/mcc1461/bookTracker-Backend)   |
+
+## ***Frontend Projects***
+| Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|
+| [Stock Management System](https://stock-management-system-mcc1461.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify | [Repo Link](https://github.com/mcc1461/Stock-Management-System)   |
+| [Todo List with Redux](https://todo-redux-mcc1461.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |
+| [Home Page](https://home-page-mcc1461.netlify.app/) |  React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/home-frontend)   |
+| [Book Tracker](https://book-tracker-frontend-mcc1461.vercel.app/) | React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/bookTracker-frontend)   |
+| [Recipe App](https://recipe-app-mcc1461.netlify.app/) |  React, Firebase, Context API, axios, MUI, Cypress | [Repo Link](https://github.com/mcc1461/Recipe-App)   |
+| [Movie App](https://movie-app-mcc1461.netlify.app/) | React, Firebase, Tailwind, Context API, axios, react-toastify | [Repo Link](https://github.com/mcc1461/Movie-App)   |
+| [Things Shop](https://things-shop-mcc1461.netlify.app/) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/mcc1461/Things-Shop)   |
+| [Color Generator](https://color-generator-mcc1461.netlify.app/) | React, useState and useEffect Hooks, CSS3  | [Repo Link](https://github.com/esmaaksoy/Color-Generator)   |
+| [BookStore-Checkout](https://our-bookstore-mcc1461.netlify.app/) | React, Bootstrap, SweetAlert2, MOCK API, CRUD, axios, useState useEffect useNavigate Hooks, Router, CSS3  | [Repo Link](https://github.com/mcc1461/shopping)   |
+| [Wednesday](https://wednesday-mcc1461.netlify.app/) | React, SASS, Bootstrap, Router  | [Repo Link](https://github.com/mcc1461/Wednesday)   |
+| [Repo Link](https://github.com/[Repo Link](https://github.com/mcc1461/tours)   |
+| [Todo App](https://todo-app-mcc1461.netlify.app/)      | React,React-icons, useState Hooks | [Repo Link](https://github.com/mcc1461/todo-app)     |
+| [Bookstore](https://bookstore-mcc1461.netlify.app/)      | React, React-Bootstrap, React-icons, SASS | [Repo Link](https://github.com/mcc1461/bookstore)     |
+| [Cyrano de Bergerac](https://cyrano-de-bergerac-mcc1461.netlify.app/) | React, React-icons, CSS3 | [Repo Link](https://github.com/mcc1461/Cyrano-de-Bergerac) |
+| [Words and Things](https://words-and-things-mcc1461.netlify.app/) | React, React-icons, SASS | [Repo Link](https://github.com/mcc1461/Words-and-Things) |
+| [İnterview Questions](https://interview-questions-mcc1461.netlify.app/) | React, React-icons, CSS3 | [Repo Link](https://github.com/mcc1461/interview-questions) |
+| [Moving Button](https://moving-button-mcc1461.netlify.app/) | React, React-Bootstrap | [Repo Link](https://github.com/mcc1461/moving-button) |
+| [Employee](https://listemployee.netlify.app/) | React, SASS | [Repo Link](https://github.com/esmaaksoy/employee/tree/main?tab=readme-ov-file) |
+| [Birthday](https://birthdaysofauthors.netlify.app/) | React,CSS3 | [Repo Link](https://github.com/mcc1461/birthday) |
+| [M.Foucault](https://foucault.netlify.app/) | React, Module CSS | [Repo Link](https://github.com/mcc1461/M.Foucault) |
+| [Developer](https://comments-developer.netlify.app/) | React, SASS | [Repo Link](https://github.com/mcc1461/Developer) |
+| [World Shop](https://world-shop.netlify.app/) | Bootstrap, SASS, Vite, Vanilla, Local Storage | [Repo Link](https://github.com/mcc1461/world-shop) |
+| [Checkout-Bootsrapt](https://explore-book.netlify.app/) | Bootstrap, Local Storage | [Repo Link](https://github.com/mcc1461/Checkout-Bootsrapt) |
+| [Hogwarts](https://mcc1461.github.io/Hogwarts-Website/) | Bootstrap | [Repo Link](https://github.com/mcc1461/Hogwarts-Website) |
+
 
 
 

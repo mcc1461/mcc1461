@@ -50,7 +50,7 @@ background: #70db70;
 }
 ## ***Fullstack Projects***
 
-| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+| Platform&logoColor=red      |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|------------------------|
 | Hostinger, Netlify, Vercel, Render | [Home Page](https://home-page-mcc1461.netlify.app/) | Node.js, Express.js, Mongoose , MongoDB, CORS, React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/Home-backend)   |
 |Hostinger, Netlify, Vercel, Render | [Book Tracker](https://book-tracker-frontend-mcc1461.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/bookTracker-Backend)   |

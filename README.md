@@ -45,17 +45,20 @@ Together, we can create something amazing.
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-
+table  th{
+background: #70db70;
+}
 ## ***Fullstack Projects***
-|**{\color{red}Platform}**      |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+
+| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|------------------------|
 | Hostinger, Netlify, Vercel, Render | [Home Page](https://home-page-mcc1461.netlify.app/) | Node.js, Express.js, Mongoose , MongoDB, CORS, React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/Home-backend)   |
 |Hostinger, Netlify, Vercel, Render | [Book Tracker](https://book-tracker-frontend-mcc1461.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/bookTracker-Backend)   |
 
 
 ## ***Backend Projects***
-| Platform       |  Project 
- Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+
+| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|------------------------|
 | [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc, Logs | [Repo Link](https://github.com/mcc1461/personnelAPI)   |
 | [Home Page](https://home-backend-mcc1461.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/mcc1461/Home-backend)   |

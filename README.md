@@ -74,7 +74,7 @@ Together, we can create something amazing.
 | [Recipe App](https://recipe-app-mcc1461.netlify.app/) |  React, Firebase, Context API, axios, MUI, Cypress | [Repo Link](https://github.com/mcc1461/Recipe-App)   |
 | [Movie App](https://movie-app-mcc1461.netlify.app/) | React, Firebase, Tailwind, Context API, axios, react-toastify | [Repo Link](https://github.com/mcc1461/Movie-App)   |
 | [Things Shop](https://things-shop-mcc1461.netlify.app/) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/mcc1461/Things-Shop)   |
-| Hostinger | [Survey Form](https://mcc1461.com/survey) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/mcc1461/Things-Shop)   |
+| Hostinger | [Survey Form](https://mcc1461.com/survey) | HTML, pure CSS | [Repo Link](https://github.com/mcc1461/survey-form)   |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

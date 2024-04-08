@@ -45,12 +45,23 @@ Together, we can create something amazing.
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-table  th{
-background: #70db70;
-}
+<style>
+    .heatMap {
+        width: 70%;
+        text-align: center;
+    }
+    .heatMap th {
+        background: grey;
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .heatMap tr:nth-child(1) { background: red; }
+    .heatMap tr:nth-child(2) { background: orange; }
+    .heatMap tr:nth-child(3) { background: green; }
+</style>
 ## ***Fullstack Projects***
 
-| Platform&logoColor=red      |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+| Platform      |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|------------------------|
 | Hostinger, Netlify, Vercel, Render | [Home Page](https://home-page-mcc1461.netlify.app/) | Node.js, Express.js, Mongoose , MongoDB, CORS, React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/Home-backend)   |
 |Hostinger, Netlify, Vercel, Render | [Book Tracker](https://book-tracker-frontend-mcc1461.vercel.app/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS, React,Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/bookTracker-Backend)   |

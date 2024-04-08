@@ -62,16 +62,8 @@ Together, we can create something amazing.
 
 
 ## ***Frontend Projects***
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-| ```diff 
- - Project Live Link in red
-```               | Libraries and Technologies I use      | Project Repo Link         |
+
+| Project Live Link in red | Libraries and Technologies I use      | Project Repo Link         |
 |-----------------------------|--------------------------------------|---------------------------|
 | [Stock Management System](https://stock-management-system-mcc1461.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify | [Repo Link](https://github.com/mcc1461/Stock-Management-System)   |
 | [Todo List with Redux](https://todo-redux-mcc1461.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |

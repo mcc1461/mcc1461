@@ -54,8 +54,9 @@ Together, we can create something amazing.
 
 
 ## ***Backend Projects***
-| Project Live Link                 | Libraries and Technologies I use      | Project Repo Link         |
-|-----------------------------|--------------------------------------|---------------------------|
+| Platform       |  Project 
+$${\color{red}Red}$$ Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|------------------------|
 | [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc, Logs | [Repo Link](https://github.com/mcc1461/personnelAPI)   |
 | [Home Page](https://home-backend-mcc1461.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/mcc1461/Home-backend)   |
 | [Book Tracker](https://booktracker-mcc1461.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/mcc1461/bookTracker-Backend)   |
@@ -63,8 +64,8 @@ Together, we can create something amazing.
 
 ## ***Frontend Projects***
 
-| Project Live Link in red | Libraries and Technologies I use      | Project Repo Link         |
-|-----------------------------|--------------------------------------|---------------------------|
+| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+|-----------------------------|--------------------------------------|---------------------------|------------------------|
 | [Stock Management System](https://stock-management-system-mcc1461.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify | [Repo Link](https://github.com/mcc1461/Stock-Management-System)   |
 | [Todo List with Redux](https://todo-redux-mcc1461.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |
 | [Home Page](https://home-page-mcc1461.netlify.app/) |  React, Tailwind CSS, CRUD, Context API, React toastify, React-icons | [Repo Link](https://github.com/mcc1461/home-frontend)   |

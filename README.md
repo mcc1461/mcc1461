@@ -49,19 +49,19 @@ Together, we can create something amazing.
 ## ***Fullstack Projects***
 
 | Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         | Preview  |
-|-----------------------------|--------------------------------------|---------------------------|------------------------|------------------------|
+|-----------------------------|--------------------------------------|---------------------------|------------------------|----------|
 
 
 ## ***Backend Projects***
 
 | Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         | Preview  |
-|-----------------------------|--------------------------------------|---------------------------|------------------------|------------------------|
+|-----------------------------|--------------------------------------|---------------------------|------------------------|----------|
 
 
 ## ***Frontend Projects***
 
 | Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         | Preview  |
-|-----------------------------|--------------------------------------|---------------------------|------------------------|------------------------|      
+|-----------------------------|--------------------------------------|---------------------------|------------------------|----------|      
 | Hostinger | [Survey Form](https://mcc1461.com/survey) | HTML, pure CSS | [Repo Link](https://github.com/mcc1461/survey-form)   |
 | GitHub | "No live link available." | React, Vite, Bootstrap, TS | [Repo Link](https://github.com/mcc1461/visible)   |![image](https://github.com/mcc1461/visible/blob/main/visibility.gif)
 

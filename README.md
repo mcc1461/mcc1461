@@ -65,7 +65,7 @@ Together, we can create something amazing.
 
 ## ***Frontend Projects***
 
-| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
+| Platform       |  Project Live Link               | Libraries and Technologies I use      | Project Repo Link         | 
 |-----------------------------|--------------------------------------|---------------------------|------------------------|
 | [Stock Management System](https://stock-management-system-mcc1461.netlify.app/) | React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify | [Repo Link](https://github.com/mcc1461/Stock-Management-System)   |
 | [Todo List with Redux](https://todo-redux-mcc1461.netlify.app/) | React, Redux, LocalStorage, MUI | [Repo Link](https://github.com/esmaaksoy/TodoList-with-Redux)   |
@@ -75,6 +75,8 @@ Together, we can create something amazing.
 | [Movie App](https://movie-app-mcc1461.netlify.app/) | React, Firebase, Tailwind, Context API, axios, react-toastify | [Repo Link](https://github.com/mcc1461/Movie-App)   |
 | [Things Shop](https://things-shop-mcc1461.netlify.app/) | React, Tailwind, Context API, axios, useLocation useState useEffect and useNavigate Hooks, sweetAlert2 | [Repo Link](https://github.com/mcc1461/Things-Shop)   |
 | Hostinger | [Survey Form](https://mcc1461.com/survey) | HTML, pure CSS | [Repo Link](https://github.com/mcc1461/survey-form)   |
+| GitHub | "No live link available." | React, Vite, Bootstrap, TS | [Repo Link](https://github.com/mcc1461/visible)   |
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

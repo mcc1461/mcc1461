@@ -48,22 +48,23 @@ Together, we can create something amazing.
 
 ## ***Fullstack Projects***
 
-| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         | Preview  |
-|-----------------------------|--------------------------------------|---------------------------|------------------------|----------|
+| Project           | Libraries and Technologies      | Repo Link          |  Platform         | Live Link                 | Preview                |
+|-------------------| --------------------------------|--------------------|-------------------|---------------------------|------------------------|
 
 
 ## ***Backend Projects***
 
-| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         | Preview  |
-|-----------------------------|--------------------------------------|---------------------------|------------------------|----------|
+| Project           | Libraries and Technologies      | Repo Link          |  Platform         | Live Link                 | Preview                |
+|-------------------| --------------------------------|--------------------|-------------------|---------------------------|------------------------|
 
 
 ## ***Frontend Projects***
 
-| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         | Preview  |
-|-----------------------------|--------------------------------------|---------------------------|------------------------|----------|      
-| Hostinger | [Survey Form](https://mcc1461.com/survey) | HTML, pure CSS | [Repo Link](https://github.com/mcc1461/survey-form)   | <img src="https://github.com/mcc1461/survey-form/raw/main/assets/survey.gif" width="250px">
-| GitHub | "No live link available." | React, Vite, Bootstrap, TS | [Repo Link](https://github.com/mcc1461/visible) | <img src="https://github.com/mcc1461/visible/blob/main/visibility.gif" width="250px">
+| Project           | Libraries and Technologies      | Repo Link          |  Platform         | Live Link                 | Preview                |
+|-------------------| --------------------------------|--------------------|-------------------|---------------------------|------------------------|
+
+|Survey Form| Hostinger | [Survey Form](https://mcc1461.com/survey) | HTML, pure CSS | [Repo Link](https://github.com/mcc1461/survey-form)   | <img src="https://github.com/mcc1461/survey-form/raw/main/assets/survey.gif" width="250px">
+|Visible| GitHub | "No live link available." | React, Vite, Bootstrap, TS | [Repo Link](https://github.com/mcc1461/visible) | <img src="https://github.com/mcc1461/visible/blob/main/visibility.gif" width="250px">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

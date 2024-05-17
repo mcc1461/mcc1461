@@ -64,7 +64,7 @@ Together, we can create something amazing.
 |-----------------------------|--------------------------------------|---------------------------|------------------------|----------|      
 | Hostinger | [Survey Form](https://mcc1461.com/survey) | HTML, pure CSS | [Repo Link](https://github.com/mcc1461/survey-form)   |
 | GitHub | "No live link available." | React, Vite, Bootstrap, TS | [Repo Link](https://github.com/mcc1461/visible)   |![image](https://github.com/mcc1461/visible/blob/main/visibility.gif){width=25px}
-
+| GitHub | "No live link available." | React, Vite, Bootstrap, TS | [Repo Link](https://github.com/mcc1461/visible) | <img src="https://github.com/mcc1461/visible/blob/main/visibility.gif" width="25px">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

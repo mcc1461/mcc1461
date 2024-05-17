@@ -56,8 +56,8 @@ Together, we can create something amazing.
 
 ## ***Backend Projects***
 
-| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         |
-|-----------------------------|--------------------------------------|---------------------------|------------------------|
+| Platform       |  Project Live Link                | Libraries and Technologies I use      | Project Repo Link         | Preview  |
+|-----------------------------|--------------------------------------|---------------------------|------------------------|------------------------|
 | [Personnel API]() | Node.js, Express.js, MongoDB, Mongoose, Single Token, Express Async Errors, Morgan, Swagger, Redoc, Logs | [Repo Link](https://github.com/mcc1461/personnelAPI)   |
 | [Home Page](https://home-backend-mcc1461.onrender.com) | Node.js, Express.js, MongoDB, Mongoose, Cookie-Session, Express Async Errors | [Repo Link](https://github.com/mcc1461/Home-backend)   |
 | [Book Tracker](https://booktracker-mcc1461.onrender.com/) | Node.js, Express.js, Sequelize ORM, PostgreSQL, CORS| [Repo Link](https://github.com/mcc1461/bookTracker-Backend)   |

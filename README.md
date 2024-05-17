@@ -62,7 +62,6 @@ Together, we can create something amazing.
 
 | Project           | Libraries and Technologies      | Repo Link          |  Platform         | Live Link                 | Preview                |
 |-------------------| --------------------------------|--------------------|-------------------|---------------------------|------------------------|
-
 |Survey Form| Hostinger | [Survey Form](https://mcc1461.com/survey) | HTML, pure CSS | [Repo Link](https://github.com/mcc1461/survey-form)   | <img src="https://github.com/mcc1461/survey-form/raw/main/assets/survey.gif" width="250px">
 |Visible| GitHub | "No live link available." | React, Vite, Bootstrap, TS | [Repo Link](https://github.com/mcc1461/visible) | <img src="https://github.com/mcc1461/visible/blob/main/visibility.gif" width="250px">
 

@@ -62,9 +62,11 @@ Together, we can create something amazing.
 
 | Project           | Libraries and Technologies     | Repo Link          | Live Platform             | Preview                |
 |-------------------|--------------------------------|--------------------|---------------------------|------------------------|
+|**React Todo**|  HTML, CSS, JS, React, Vite | [Repo](https://github.com/mcc1461/react-todo) | [Vercel](https://react-todo-apeut59os-mcc-projects-777.vercel.app/)) | <img src="https://github.com/mcc1461/react-todo/blob/main/react-todo.gif" width="250px">
+|**Select**|React, TS, Vite | [Repo](https://github.com/mcc1461/selection) | [Netlify](https://profound-brigadeiros-74a30a.netlify.app) | <img src="https://github.com/mcc1461/selection/blob/main/selection.gif" width="250px">
 |**Survey Form**|  HTML, pure CSS | [Repo](https://github.com/mcc1461/survey-form) | [Hostinger](https://mcc1461.com/survey) | <img src="https://github.com/mcc1461/survey-form/raw/main/assets/survey.gif" width="250px">
 | **Visible** | React, Vite, Bootstrap, TS GitHub | [Repo](https://github.com/mcc1461/visible) | 'No link available' | <img src="https://github.com/mcc1461/visible/blob/main/visibility.gif" width="250px">
-|**Select**|React, TS, Vite | [Repo](https://github.com/mcc1461/selection) | [Netlify](https://profound-brigadeiros-74a30a.netlify.app) | <img src="https://github.com/mcc1461/selection/blob/main/selection.gif" width="250px">
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

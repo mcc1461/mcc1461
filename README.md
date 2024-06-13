@@ -60,7 +60,7 @@ Together, we can create something amazing.
 
 ## ***Frontend Projects***
 
-| Project&color="red"          | Libraries and Technologies     | Repo Link          | Live Platform             | Preview                |
+| <span style="color:red;">Project</span>         | <span style="color:red;">Libraries and Technologies </span>    | <span style="color:red;">Repo Link</span>          | <span style="color:red;">Live Platform   </span>         | <span style="color:red;">Preview</span>          |
 |-------------------|--------------------------------|--------------------|---------------------------|------------------------|
 |**React Todo**|  HTML, CSS, JS, React, Vite | [Repo](https://github.com/mcc1461/react-todo) | [Vercel](https://react-todo-apeut59os-mcc-projects-777.vercel.app/) | <img src="https://github.com/mcc1461/react-todo/blob/main/react-todo.gif" width="250px">
 |**Select**|React, TS, Vite | [Repo](https://github.com/mcc1461/selection) | [Netlify](https://profound-brigadeiros-74a30a.netlify.app) | <img src="https://github.com/mcc1461/selection/blob/main/selection.gif" width="250px">

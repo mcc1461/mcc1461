@@ -69,6 +69,66 @@ Together, we can create something amazing.
 | **Mcc Button1** | HTML, CSS | [Repo](https://github.com/mcc1461/button-effect1) | 'No link available' | <img src="https://github.com/mcc1461/button-effect1/blob/main/button-style1.gif" width="250px">
 | **React Router 6.4** | HTML, CSS, React-Router, React-Select | [Repo](https://github.com/mcc1461/react_router_6_4) | 'No link available' | <img src="https://github.com/mcc1461/react_router_6_4/blob/main/router__6_4.gif" width="250px"> 
 
+## ***Frontend Projects***
+
+<table>
+  <thead>
+    <tr>
+      <th><span style="color:red;">Project</span></th>
+      <th><span style="color:red;">Libraries and Technologies</span></th>
+      <th><span style="color:red;">Repo Link</span></th>
+      <th><span style="color:red;">Live Platform</span></th>
+      <th><span style="color:red;">Preview</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>React Todo</strong></td>
+      <td>HTML, CSS, JS, React, Vite</td>
+      <td><a href="https://github.com/mcc1461/react-todo">Repo</a></td>
+      <td><a href="https://react-todo-apeut59os-mcc-projects-777.vercel.app/">Vercel</a></td>
+      <td><img src="https://github.com/mcc1461/react-todo/blob/main/react-todo.gif" width="250px"></td>
+    </tr>
+    <tr>
+      <td><strong>Select</strong></td>
+      <td>React, TS, Vite</td>
+      <td><a href="https://github.com/mcc1461/selection">Repo</a></td>
+      <td><a href="https://profound-brigadeiros-74a30a.netlify.app">Netlify</a></td>
+      <td><img src="https://github.com/mcc1461/selection/blob/main/selection.gif" width="250px"></td>
+    </tr>
+    <tr>
+      <td><strong>Survey Form</strong></td>
+      <td>HTML, pure CSS</td>
+      <td><a href="https://github.com/mcc1461/survey-form">Repo</a></td>
+      <td><a href="https://mcc1461.com/survey">Hostinger</a></td>
+      <td><img src="https://github.com/mcc1461/survey-form/raw/main/assets/survey.gif" width="250px"></td>
+    </tr>
+    <tr>
+      <td><strong>Visible</strong></td>
+      <td>React, Vite, Bootstrap, TS GitHub</td>
+      <td><a href="https://github.com/mcc1461/visible">Repo</a></td>
+      <td>'No link available'</td>
+      <td><img src="https://github.com/mcc1461/visible/blob/main/visibility.gif" width="250px"></td>
+    </tr>
+    <tr>
+      <td><strong>Mcc Button1</strong></td>
+      <td>HTML, CSS</td>
+      <td><a href="https://github.com/mcc1461/button-effect1">Repo</a></td>
+      <td>'No link available'</td>
+      <td><img src="https://github.com/mcc1461/button-effect1/blob/main/button-style1.gif" width="250px"></td>
+    </tr>
+    <tr>
+      <td><strong>React Router 6.4</strong></td>
+      <td>HTML, CSS, React-Router, React-Select</td>
+      <td><a href="https://github.com/mcc1461/react_router_6_4">Repo</a></td>
+      <td>'No link available'</td>
+      <td><img src="https://github.com/mcc1461/react_router_6_4/blob/main/router__6_4.gif" width="250px"></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mcc1461&theme=dark&hide_border=false)<br/>

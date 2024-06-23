@@ -1,0 +1,693 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  --header-height: 3.5rem;
+  /*========== Colors ==========*/
+  /*Color mode HSL(hue, saturation, lightness)*/
+  /* 
+        Change favorite color
+        Default: hsl(230, 55%, 55%)
+        Purple: hsl(245, 55%, 55%) - Blue: hsl(210, 55%, 55%)
+        Pink: hsl(340, 55%, 55%) - Green: hsl(162, 55%, 55%)
+        Orange: hsl(14, 55%, 55%)
+
+        For more colors visit: https://colors.dopely.top/color-pedia
+        -> Choose any color 
+        -> Click on tab (Color Conversion)
+        -> Copy the color mode (HSL)
+  */
+  --hue: 230;
+  --first-color: hsl(var(--hue), 55%, 55%);
+  --first-color-light: hsl(var(--hue), 55%, 65%);
+  --first-color-alt: hsl(var(--hue), 50%, 50%);
+  --title-color: hsl(var(--hue), 30%, 95%);
+  --text-color: hsl(var(--hue), 20%, 80%);
+  --text-color-light: hsl(var(--hue), 20%, 70%);
+  --body-color: hsl(var(--hue), 40%, 16%);
+  --container-color: hsl(var(--hue), 40%, 20%);
+  --bg-color: hsl(194, 17%, 71%)
+
+  /* ========= Font Family ============= */
+
+  --font-poppins-bold : "Poppins", sans-serif, 700;
+  
+  --font-poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+  
+
+
+
+  /*========== Font and typography ==========*/
+  /*.5rem = 8px | 1rem = 16px ...*/
+  --body-font: "Syne", sans-serif;
+  --big-font-size: 3rem;
+  --biggest-font-size: 3.5rem;
+  --big-font-size: 1.5rem;
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --h3-font-size: 1rem;
+  --normal-font-size: .938rem;
+  --small-font-size: .813rem;
+
+  /*========== Font weight ==========*/
+  --font-regular: 400;
+  --font-semi-bold: 600;
+  --font-bold: 700;
+  --font-bolder: 800;
+  --font-bold-extra: 900;
+
+  /*========== z index ==========*/
+  --z-tooltip: 10;
+  --z-fixed: 100;
+}
+
+/*========== Responsive typography==========*/
+@media screen and (min-width: 1150px) {
+  :root {
+    --biggest-font-size: 5.5rem;
+    --big-font-size: 2.75rem;
+    --h1-font-size: 2.25rem;
+    --h2-font-size: 1.5rem;
+    --h3-font-size: 1.25rem;
+    --normal-font-size: 1.125rem;
+    --small-font-size: .875rem;
+  }
+}
+
+/*=============== BASE ===============*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body,
+input,
+textarea,
+button {
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+}
+
+body {
+  background-color: var(--body-color);
+  color: var(--text-color);
+}
+
+input,
+button,
+textarea {
+  border: none;
+  outline: none;
+}
+
+h1, h2, h3 {
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
+}
+
+p {
+  line-height: 130%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+.container {
+  max-width: 1120px;
+  margin-inline: 1.5rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.section {
+  padding-block: 5rem 2rem;
+}
+
+.section__title {
+  text-align: center;
+  font-size: var(--h1-font-size);
+  font-weight: var(--font-bold);
+  margin-bottom: 2rem;
+}
+
+.main {
+  overflow: hidden;
+}
+
+/*=============== HEADER & NAV ===============*/
+.header{
+  position: fixed; 
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: transparent;
+  z-index: var(--z-fixed);
+}
+
+.nav{
+  position: relative;
+  height: var(--header-height);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav__logo{
+  color: var(--title-color);
+  font-weight: var(--font-bold);
+}
+.nav__toggle,
+.nav__close {
+  font-size: 1.5rem;
+  color: var(--title-color);
+  cursor: pointer; 
+}
+
+
+/* Navigation for mobile devices */
+
+@media screen and (max-width: 1150px) {
+  .nav__menu{
+    position: fixed;
+    top: 0;
+    right: -100%;
+    background-color: hsl(var(--hue), 70%, 4%, .2);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    width: 80%;
+    height: 100%;
+    padding: 7rem 3rem;
+    transition: right .4s;
+  }
+}
+.nav__list{
+  display: flex;
+  flex-direction: column;
+  row-gap: 3rem;
+}
+
+.nav__link{
+  position: relative;
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
+  transition: color .4s;
+}
+.nav__link::after{
+  content: '';
+  width: 0;
+  height: 2px;
+  background-color: var(--first-color-light);
+  position: absolute;
+  left: 0;
+  bottom: -0.3rem;
+  border-bottom: 1px solid yellow;
+  transition: width .3s;
+}
+.nav__link:hover{
+  color: var(--first-color-light);
+}
+.nav__link:hover::after{
+  width: 30%;
+}
+.nav__close{
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+}
+
+/* Show menu */
+.show-menu{
+  right: 0;
+}
+
+/* Add blur header */
+
+.blur-header::after{
+  content: '';
+  position: absolute;
+  width: 1000%;
+  height: 100%;
+  background-color: hsla(var(--hue), 70%, 4%, .2);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  top: 0;
+  left: 0;
+  z-index: -1;
+
+
+
+}
+
+
+/* Active link */
+
+
+/*=============== HOME ===============*/
+
+.home__container{
+  row-gap: 2rem;
+  padding-top: 1rem;
+
+}
+.home__img{
+    width: 420px;
+    justify-self: center;
+    border-radius: 40%;
+    mask-image: radial-gradient(
+        circle,
+        hsla(var(--hue), 40%, 16%, 1) 60%, 
+        hsla(var(--hue), 40%, 16%, 0) 100%
+      );
+      -webkit-mask-image: radial-gradient(
+        circle,
+        hsla(var(--hue), 40%, 16%, 1) 60%, 
+        hsla(var(--hue), 40%, 16%, 0) 100%
+      );
+}
+.home__name{
+  font-size: var(--biggest-font-size);
+  font-weight: var(--font-bold);
+  font-family: var(--font-poppins-);
+  word-break: break-word;
+  margin-bottom: 1rem;
+}
+ .home__profession {
+      position: relative !important; /* ensuring it's relative */
+      font-size: var(--big-font-size);
+      font-weight: var(--font-bolder);
+      color: var(--text-color); /* Clarifying color */
+    }
+
+    .home__profession::after {
+      content: '';
+      position: absolute; /* absolute positioning */
+      left: 0;
+      bottom: -0.5rem;
+      width: 10%;
+      width: 7rem;
+      height: 3px;
+      background-color: var(--text-color);
+    }
+
+.home__scroll{
+  color: var(--title-color);
+  display: inline-flex;
+  column-gap: .5rem;
+  align-items: center;
+  justify-self: center;
+  margin-top: 3rem;
+  color: yellow;
+}
+.home__scroll-box{
+  background-color: var(--first-color);
+  width: 2rem;
+  height: 2rem;
+  display: grid;
+  place-items: center;
+  font-size: 1.7rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.home__scroll-text{
+  font-weight: var(--font-semi-bold);
+}
+.home__scroll-box i{
+  animation: scroll-down 3s infinite; 
+}
+
+/* Animate scroll icon */
+@keyframes scroll-down {
+  0%{
+    transform: translateY(-.6rem);
+    opacity: 0;
+  }
+  50%{
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100%{
+    transform: translateY(.6rem);
+    opacity: 0;
+  }
+}
+
+/*=============== BUTTON ===============*/
+.button{
+  display: inline-flex;
+  justify-content: center;
+  background-color: var(--first-color);
+  color: var(--text-color);
+  font-weight: var(--font-semi-bold);
+  padding: 1.25rem 2rem;
+  transition: background-color .4s;
+  border-radius: 1rem;
+}
+.button:hover{
+  background-color: var(--first-color-alt);
+}
+/*=============== WORKS ===============*/
+.work{
+  background-color: var(--container-color);
+}
+.work__card{
+  background-color: var(--first-color);
+}
+.work__link{
+  display: block;
+  position: relative;
+  background-color: var(--body-color);
+  padding: 2rem 1.5rem 1.5rem 1.5rem;
+  color: var(--text-color);
+  transition: transform .4s;
+}
+.work__title{
+  font-size: var(--h3-font-size);
+  margin-bottom: .75rem;
+}
+.work__link i{
+  position: absolute;
+  top: 1.8rem;
+  right: 1.5rem;
+  font-size: 1.5rem;  
+  color: var(--first-color-light);
+  transition: transform .4s;
+}
+.work__link:hover{
+  transform: translateY(.35rem);
+}
+.work__link:hover i{
+  transform: translateX(.5rem);
+}
+/*=============== INFO ===============*/
+.info__container{
+  row-gap: 3rem;
+}
+.info__title{
+  position: relative;
+  font-size: var(--small-font-size);
+  color: var(--text-color);
+  margin-bottom: 2rem;
+}
+.info__title::after{
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -.5rem;
+  width: 20px;
+  height: 2px;
+  background-color: var(--text-color);
+}
+/* ABOUT */
+.about{
+  row-gap: 3rem;
+}
+.about__description{
+  margin-bottom: 2rem;
+}
+.about__description b{
+  color: var(--first-color-light);
+}
+.about__img{
+  width: 320px;
+    justify-self: center;
+    border-radius: 40%;
+    mask-image: radial-gradient(
+        circle,
+        hsla(var(--hue), 40%, 16%, 1) 60%, 
+        hsla(var(--hue), 40%, 16%, 0) 100%
+      );
+      -webkit-mask-image: radial-gradient(
+        circle,
+        hsla(var(--hue), 40%, 16%, 1) 60%, 
+        hsla(var(--hue), 40%, 16%, 0) 100%
+      );
+}
+.about__button{
+  width: 100%;
+}
+
+/* EXPERIENCE */
+.experience__content{
+  row-gap: 2rem;
+}
+.experience__data{
+  row-gap: 1rem;
+}
+.experience__company{
+  font-size: var(--h2-font-size);
+  font-weight: var(--font-bold);
+}
+.experience__profession{
+  font-size: var(--h3-font-size);
+  margin-bottom: .25rem;
+}
+.experience__date{
+  display: block;
+  font-size: var(--small-font-size);
+  margin-bottom: .75rem;
+}
+
+/* SKILLS */
+
+.skills__img{
+  width: 50px;
+  height: 50px;
+  margin-bottom: .5rem;
+}
+.skills__name{
+  font-size: var(--small-font-size);
+}
+.skills__content{
+  grid-template-columns: repeat(3, max-content);
+  justify-content: space-around;
+  align-items: flex-end;
+}
+.skills__box{
+  display: grid;
+  place-items: center;
+  transition: transform .4s;
+}
+.skills__box:hover{
+  transform: translateY(-.25rem);
+  color: yellow;
+  font-weight: var(--font-bold);
+  text-decoration: underline;
+}
+/*=============== SERVICES ===============*/
+.services{
+  background-color: var(--container-color);
+}
+.services__container{
+  row-gap: 2rem;
+}
+.services__icon{
+  display: block;
+  font-size: 2rem;
+  color: var(--text-color-light);
+  margin-bottom: 1rem;
+}
+.services__title{
+  font-size: var(--h3-font-size);
+  margin-bottom: .75rem;
+}
+/*=============== CONTACT ===============*/
+.contact__container{
+  row-gap: 4rem;
+}
+.contact__group,
+.contact__form{
+  gap: 1rem;
+}
+.contact__form{
+  position: relative;
+}
+.contact__input{
+  padding: 1.25rem;
+  background-color: var(--container-color);
+  color: var(--title-color);
+  font-weight: var(--font-semi-bold);
+}
+.contact__input::placeholder{
+  color: var(--text-color-light);
+}
+.contact__area{
+  height: 10rem;
+  resize: none;
+}
+.contact__button{
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.contact__social{
+  grid-template-columns: repeat(3, max-content);
+  justify-content: center;
+  column-gap: 3rem;
+  margin-bottom: 10rem;
+}
+.contact__social-link{
+  color: var(--title-color);
+  display: inline-flex;
+  column-gap: .25rem;
+  align-items: center;
+  transition: color .4s;
+}
+.contact__social-link i{
+  font-size: 1.5rem;
+}
+.contact__social-link span{
+  font-size: var(--small-font-size);
+  font-weight: var(--font-semi-bold);
+}
+.contact__social-link:hover{
+  color: var(--first-color-light);
+}
+.contact__message{
+  position: absolute;
+  left: 0;
+  bottom: -2rem;
+  font-size: var(--small-font-size);
+  font-weight: var(--font-semi-bold);
+  color: var(--title-color);
+}
+/*=============== FOOTER ===============*/
+
+
+/*=============== SCROLL BAR ===============*/
+
+
+/*=============== SCROLL UP ===============*/
+
+
+/* Show Scroll Up */
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+
+
+/* For medium devices */
+
+
+/* For large devices */

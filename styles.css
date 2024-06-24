@@ -644,7 +644,7 @@ img {
   grid-template-columns: repeat(3, max-content);
   justify-content: center;
   column-gap: 3rem;
-  margin-bottom: 10rem;
+  margin-bottom: 1rem;
 }
 .contact__social-link{
   color: var(--title-color);
@@ -672,8 +672,34 @@ img {
   color: var(--title-color);
 }
 /*=============== FOOTER ===============*/
-
-
+.footer{
+  background-color: var(--container-color);
+}
+.footer__container{
+  padding-block: 3rem 5rem;
+  row-gap: 3rem;
+}
+.footer__links{
+  display: flex;
+  justify-content: center;
+  column-gap: 2.5rem;
+}
+.footer__link{
+  color: var(--text-color-light);
+  font-weight: var(--font-semi-bold);
+  transition: color .4s;
+}
+.footer__link:hover{
+  color: var(--first-color-light);
+}
+.footer__copy{
+  color: var(--title-color);
+  font-size: var(--small-font-size);
+  text-align: center;
+  display: inline-flex;
+  column-gap: .5rem;
+  justify-self: center;
+}
 /*=============== SCROLL BAR ===============*/
 
 

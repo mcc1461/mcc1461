@@ -291,10 +291,10 @@
          <div class="contact__container container grid">
             <form action="" class="contact__form grid" id="contact-form">
                <div class="contact__group grid">
-                  <input type="text" name="" placeholder="Names" required class="contact__input">
-                  <input type="email" name="" placeholder="Email" required class="contact__input">
+                  <input type="text" name="user_name" placeholder="Names" required class="contact__input">
+                  <input type="email" name="user_email" placeholder="Email" required class="contact__input">
                </div>
-               <textarea name="" placeholder="Message" required class="contact__input contact__area"></textarea>
+               <textarea name="user_message" placeholder="Message" required class="contact__input contact__area"></textarea>
                <button type="submit" class="button contact__button" >Send Message</button>
                <p class="contact__message" id="contact-message"></p>
             </form>
@@ -318,7 +318,24 @@
     </main>
 
     <!--==================== FOOTER ====================-->
-    <footer class="footer"></footer>
+    <footer class="footer">
+      <div class="footer__container container grid">
+         <ul class="footer__links">
+            <li>
+               <a href="#home" class="footer__link">Home</a>
+            </li>
+            <li>
+               <a href="#work" class="footer__link">Work</a>
+            </li>
+            <li>
+               <a href="#info" class="footer__link">Info</a>
+            </li>
+         </ul>
+         <span class="footer__copy">
+            &#169; <span id="current-year"></span>  <span>-</span> All Rights Reserved by <b>Mustafa COSKUNCELEBI</b> 
+         </span>
+      </div>
+    </footer>
 
     <!--========== SCROLL UP ==========-->
 

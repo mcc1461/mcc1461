@@ -37,9 +37,31 @@ window.addEventListener("scroll", blurHeader)
 /*=============== EMAIL JS ===============*/
 const contactForm = document.getElementById("contact-form"), 
     contactMessage = document.getElementById("contact-message")
-    
-    const sendEmail = (e) =>
-        e.preventDefault();
+
+const sendEmail = (e) => {
+    e.preventDefault();
+    // serviceId - templateId - #form - publicKey
+    emailjs.sendForm("service_5l5jxcc","template_qqfkusw","#contact-form","G00M8wGFrVpEii7ot")
+    .then(() => {
+        //show send message
+        contactMessage.textContent = "Message sent successfully ✅"
+
+        //Remove message after five seconds
+        setTimeout(() =>{
+            contactMessage.textContent = ""
+        }, 5000)
+
+        //Clear input fields
+        contactForm.reset()
+    }, () =>{ 
+        //Show error message
+        contactMessage.textContent = "Message not sent (...service error...) ❌"
+    })
+}
+contactForm.addEventListener("submit", sendEmail)
+
+/*=============== CURRENT YEAR ===============*/ 
+document.getElementById("current-year").textContent=new Date().getFullYear()
 
 /*=============== SHOW SCROLL UP ===============*/ 
 

@@ -64,9 +64,32 @@ contactForm.addEventListener("submit", sendEmail)
 document.getElementById("current-year").textContent=new Date().getFullYear()
 
 /*=============== SHOW SCROLL UP ===============*/ 
-
-
+const scrollUp = () => {
+    const scrollUp = document.getElementById("scroll-up")
+    // when the scroll is higher than 350viewport height, add the show-scroll 
+    this.scrollY >= 500 ? scrollUp.classList.add("show-scroll")
+                        : scrollUp.classList.remove("show-scroll")
+}
+window.addEventListener("scroll", scrollUp)
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
+const sections = document.getElementById("section[id]")
 
+const scrollActive = () => {
+    const scrollDown = window.scrollY
 
+    sections.forEach(current => {
+        const   sectionHeight = current.offsetHeight,
+                sectionTop = current.offsetTop - 58,
+                sectionId = current.getAttribute("id"),
+                sectionsClass = document.querySelector(`.nav__menu a[href*=${sectionId}]`)
+
+        if(scrollDown > sectionTop && scrollDown <= sectionTop + sectionHeight){
+            sectionsClass.classList.add("active-link")
+        }        
+        else {
+            sectionsClass.classList.remove("active-link")
+        }        
+    })
+}
+window.addEventListener("scroll", scrollActive)
 /*=============== SCROLL REVEAL ANIMATION ===============*/

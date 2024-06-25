@@ -99,3 +99,49 @@ const scrollActive = () => {
     });
 }
 window.addEventListener("scroll", scrollActive);
+/* =============== SCROLL REVEAL ANIMATION =============== */
+const sr = ScrollReveal({
+    origin: "top",
+    distance: "60px",
+    duration: 2500,
+    delay: 400,
+    reset: true // Animation repeats when scrolling up
+});
+
+sr.reveal(`.home__data, .experience, .skills`)
+sr.reveal(`.home__img`, { delay: 600 })
+sr.reveal(`.home__scroll`, { delay: 900 })
+
+/*=============== DARK LIGHT THEME ===============*/
+const themeButton = document.getElementById("theme-button"),
+      darkTheme = "dark-theme",
+      iconTheme = "bx-sun";
+
+const selectedTheme = () => {
+    const currentTheme = localStorage.getItem("selected-theme"),
+          currentIcon = localStorage.getItem("selected-icon");
+
+    if (currentTheme) {
+        document.body.classList[currentTheme === "dark" ? "add" : "remove"](darkTheme);
+        themeButton.classList[currentIcon === "bx-moon" ? "add" : "remove"](iconTheme);
+    }
+}
+selectedTheme();
+
+const darkLightTheme = () => {
+    document.body.classList.toggle(darkTheme);
+    themeButton.classList.toggle(iconTheme);
+
+    localStorage.setItem("selected-theme", document.body.classList.contains(darkTheme) ? "dark" : "light");
+    localStorage.setItem("selected-icon", themeButton.classList.contains(iconTheme) ? "bx-moon" : "bx-sun");
+}
+themeButton.addEventListener("click", darkLightTheme);
+
+/*=============== REDUCE HEADER SIZE ===============*/
+const header = () => {
+    const header = document.getElementById("header");
+    this.scrollY >= 200 ? header.classList.add("scroll-header")
+                        : header.classList.remove("scroll-header");
+}
+window.addEventListener("scroll", header);
+

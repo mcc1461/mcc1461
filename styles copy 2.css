@@ -28,24 +28,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 200;
     font-style: normal;
-  
-    
-      --first-color: hsl(252, 75%, 60%);
-      --first-color-light: hsl(252, 75%, 68%);
-      --first-color-alt: hsl(252, 75%, 52%);
-      --title-color: hsl(210, 22%, 96%);
-      --text-color: hsl(var(--hue), 20%, 80%);
-      --text-color: yellow;
-
-      --text-color-light: hsl(210, 15%, 40%);
-      --text-color-light: ligtblue;
-      --body-color: hsl(0, 0%, 98%);
-      --container-color: hsl(0, 0%, 100%);
-    
   };
-
-
-
 
   /*========== Font and typography ==========*/
   --body-font: "Syne", sans-serif;
@@ -124,84 +107,22 @@ body {
   background-color: var(--body-color);
   /* Light text for dark theme */
   color: var(--text-color);
-  
 
 }
-.dark-theme {
-  --title-color: aqua;
-  --text-color: hsl(210, 15%, 95%);
-  --body-color: hsl(210, 15%, 20%);
-  --container-color: hsl(210, 15%, 25%);
+.dark-theme .work, .dark-theme .services, .dark-theme .footer {
+  background-color: var(--body-color) !important;
 }
-.dark-theme .nav__link {
-  color: hsl(180, 70%, 85%) !important;
-}
-.dark-theme .nav__link:hover {
-  color: hsl(180, 100%, 50%) !important;
-}
-.dark-theme .work__link {
-  background-color: hsl(210, 29%, 38%) !important;
-}
-.dark-theme .work__card {
-  background-color: hsl(180, 100%, 50%) !important;
-} 
-.dark-theme .work__link i{
-  color: aqua !important;
-}
-.dark-theme .nav__list{
-  background-color: transparent;
-}
-.dark-theme .nav__menu{
-  background-color: transparent;
-}
-.dark-theme .logo__initials{
-  color: aqua;
-}
-.dark-theme .logo__text{
-  color: hsl(180, 70%, 85%);
-}
-.dark-theme .theme-button {
-  background-color: hsl(210, 29%, 38%);
-  color: hsl(180, 100%, 50%);
-  width: 2.5rem;
-  height: 2.5rem;
-  border-radius: 50%;
-  padding: 0;
-}
-.dark-theme .theme-button:hover {
-  color: yellow;
-  border: 1px solid yellow;
-  font-size: larger;
-  outline: 3px solid yellow;
-  outline-offset: 3px;
-}
-.dark-theme .work, 
-.dark-theme .services,
-.dark-theme .footer   {
-  background-color: hsla(210, 29%, 38%, .3) !important;
-}
-.dark-theme .info__title {
-  color: hsl(180, 70%, 85%);
-}
-.dark-theme .info__title::after {
-  background-color: hsl(180, 70%, 85%);
-}
-
 .theme-button {
   display: inline-flex;  /* Make sure it's not set to 'none' */
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  background-color: yellow;
-  color: var(--text-color); 
-  color: black; /* And a text/icon color */
+  background-color: yellow;  /* Ensure it has a background */
+  color: var(--text-color);  /* And a text/icon color */
   border: none;  /* No border unless you want one */
   padding: 8px 16px;  /* Some padding to make it visible */
+}
 
-}
-.header, .footer, .nav__menu {
-  background-color: var(--container-color);
-}
 
 /* Toggle button icon visibility */
 .theme-button .ri-sun-line { display: block; }
@@ -209,10 +130,6 @@ body {
 
 .dark-theme .theme-button .ri-sun-line { display: none; }
 .dark-theme .theme-button .ri-moon-line { display: block; }
-
-.theme-button .ri-sun-line { display: none; }
-.dark-theme .theme-button .ri-sun-line { display: block; }
-.dark-theme .theme-button .ri-moon-line { display: none; }
 
 
 input,
@@ -291,10 +208,6 @@ img {
 .nav__logo{
   color: var(--title-color);
   font-weight: var(--font-bold);
-  font-size: 2.1rem;
-}
-.nav__logo:hover{
-  color: var(--text-color);
 }
 .nav__toggle,
 .nav__close {
@@ -365,7 +278,6 @@ img {
 .home__container{
   row-gap: 2rem;
   padding-top: 1rem;
-  margin-top: 7rem;
 }
 .home__img{
   width: 420px;
@@ -387,7 +299,7 @@ img {
   font-weight: var(--font-bold);
   font-family: var(--font-poppins-bold);
   word-break: break-word;
-  margin-bottom: 5rem !important;
+  margin-bottom: 1rem;
 }
 .home__profession {
   position: relative !important; /* ensuring it's relative */
@@ -413,8 +325,7 @@ img {
   column-gap: .5rem;
   align-items: center;
   justify-self: center;
-  margin-top: 11rem;
-  margin-bottom: 11rem;
+  margin-top: 3rem;
   /* color: yellow; */
 }
 .home__scroll-box{
@@ -1090,4 +1001,6 @@ img {
     right: 3rem;
   } 
 }
-
+.logo__initials{
+  color: var(--first-color);
+}

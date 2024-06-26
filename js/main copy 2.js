@@ -131,69 +131,35 @@ contactInputs.forEach(input => {
 });
 
 /* =============== DARK LIGHT THEME =============== */
+document.addEventListener('DOMContentLoaded', () => {
+    const themeButton = document.getElementById("theme-button");
+    const darkTheme = "dark-theme";
+    const iconTheme = "bx-sun"; // Adjust according to actual icon class names if different
 
-document.addEventListener('DOMContentLoaded', function () {
-    const themeButton = document.getElementById('theme-button');
-    const body = document.body;
-  
-    themeButton.addEventListener('click', function () {
-      body.classList.toggle('dark-theme');
-      localStorage.setItem('theme', body.classList.contains('dark-theme') ? 'dark' : 'light');
-      updateThemeIcon();
-    });
-  
-    function updateThemeIcon() {
-      const iconSun = document.querySelector('.ri-sun-line');
-      const iconMoon = document.querySelector('.ri-moon-line');
-      if (body.classList.contains('dark-theme')) {
-        iconSun.style.display = 'block';
-        iconMoon.style.display = 'none';
-      } else {
-        iconSun.style.display = 'none';
-        iconMoon.style.display = 'block';
-      }
+    // Function to load the selected theme from localStorage
+    const selectedTheme = () => {
+        const currentTheme = localStorage.getItem("selected-theme");
+        const currentIcon = localStorage.getItem("selected-icon");
+
+        document.body.classList.toggle(darkTheme, currentTheme === "dark");
+        themeButton.querySelector('.ri-sun-line').style.display = currentTheme === "dark" ? "none" : "block";
+        themeButton.querySelector('.ri-moon-line').style.display = currentTheme === "dark" ? "block" : "none";
     }
-  
-    function loadThemeFromLocalStorage() {
-      if (localStorage.getItem('theme') === 'dark') {
-        body.classList.add('dark-theme');
-      }
-      updateThemeIcon();
+
+    selectedTheme();
+
+    const darkLightTheme = () => {
+        document.body.classList.toggle(darkTheme);
+        const isDark = document.body.classList.contains(darkTheme);
+        themeButton.querySelector('.ri-sun-line').style.display = isDark ? "none" : "block";
+        themeButton.querySelector('.ri-moon-line').style.display = isDark ? "block" : "none";
+
+        localStorage.setItem("selected-theme", isDark ? "dark" : "light");
     }
-  
-    loadThemeFromLocalStorage();
-  });
-  
 
-// document.addEventListener('DOMContentLoaded', () => {
-//     const themeButton = document.getElementById("theme-button");
-//     const darkTheme = "dark-theme";
-//     const iconTheme = "bx-sun"; // Adjust according to actual icon class names if different
-
-//     // Function to load the selected theme from localStorage
-//     const selectedTheme = () => {
-//         const currentTheme = localStorage.getItem("selected-theme");
-//         const currentIcon = localStorage.getItem("selected-icon");
-
-//         document.body.classList.toggle(darkTheme, currentTheme === "dark");
-//         themeButton.querySelector('.ri-sun-line').style.display = currentTheme === "dark" ? "none" : "block";
-//         themeButton.querySelector('.ri-moon-line').style.display = currentTheme === "dark" ? "block" : "none";
-//     }
-
-//     selectedTheme();
-
-//     const darkLightTheme = () => {
-//         document.body.classList.toggle(darkTheme);
-//         const isDark = document.body.classList.contains(darkTheme);
-//         themeButton.querySelector('.ri-sun-line').style.display = isDark ? "none" : "block";
-//         themeButton.querySelector('.ri-moon-line').style.display = isDark ? "block" : "none";
-
-//         localStorage.setItem("selected-theme", isDark ? "dark" : "light");
-//     }
-
-//     themeButton.addEventListener("click", () => {
-//         document.body.classList.toggle("dark-theme"); // Toggles the dark-theme class on the body
-// });
+    themeButton.addEventListener("click", () => {
+        document.body.classList.toggle("dark-theme"); // Toggles the dark-theme class on the body
+});
 
 // /*=============== DARK LIGHT THEME ===============*/
 // const themeButton = document.getElementById("theme-button");

@@ -1205,11 +1205,30 @@ img {
   .home__name{
     font-size: 1.3rem !important;
     font-weight: var(--font-bold);
+    text-align: center !important;
   }
   .home__profession{
-    font-size: 1.1rem !important;
+    font-size: 1rem !important;
     font-weight: var(--font-bold);
+    text-align: center !important;
   }
+  .home__profession::after{
+    bottom: -1rem;
+    width: 0 !important;
+  }
+  .logo__initials{
+    font-size: 1.2rem !important;
+    font-weight: var(--font-bold) !important;  
+  }
+  .logo__text{
+    font-size: 1.2rem !important;
+    font-weight: var(--font-bold) !important; 
+  }
+  .contact__block,
+  .services__block {
+    display: none !important;
+  }
+  
 }
 /*? -----------------  For small devices -------------------- ?*/
 
@@ -1229,10 +1248,32 @@ img {
   .home__name{
     font-size: 1.7rem;
     font-weight: var(--font-bold);
+    text-align: center !important;
   }
   .home__profession{
-    font-size: 1.3rem;
-    font-weight: var(--font-bold);
+    font-size: 1.3rem !important;
+    font-weight: var(--font-bold) !important;
+    text-align: center !important;
+  }
+  .home__profession::after{
+    bottom: -1rem;
+    width: 0 !important;
+  }
+  .logo__initials{
+    font-size: 1.7rem !important;
+    font-weight: var(--font-bold) !important;  
+  }
+  .logo__text{
+    font-size: 1.7rem !important;
+    font-weight: var(--font-bold) !important; 
+  }
+  .inputs {
+    width: 70%;
+    margin: 0 1rem;
+  }
+  .submit__button {
+    width: 70%;
+    margin: 0 1rem;
   }
 }
 /*? ------------------ For medium devices ------------------ ?*/
@@ -1254,10 +1295,32 @@ img {
   .home__name{
     font-size: 2rem;
     font-weight: var(--font-bold);
+    text-align: center !important;
   }
   .home__profession{
     font-size: 1.5rem;
-    font-weight: var(--font-bold);
+    font-weight: var(--font-bold) !important;
+    text-align: center !important;
+  }
+  .home__profession::after{
+    bottom: -1rem;
+    width: 0;
+  }
+  .logo__initials{
+    font-size: 1.9rem !important;
+    font-weight: var(--font-bold) !important;  
+  }
+  .logo__text{
+    font-size: 1.9rem !important;
+    font-weight: var(--font-bold) !important; 
+  }
+  .inputs {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .submit__button {
+    width: 80%;
+    margin: 0 auto;
   }
 }
 
@@ -1268,7 +1331,7 @@ img {
     margin-inline: 2rem;
   }
   .home__container, .info__container, .work__container, .services__container{
-    grid-template-columns:repeat(2, 350px);
+    grid-template-columns:repeat(2, 370px);
     justify-content: center;
   }
   .info__container{
@@ -1314,8 +1377,11 @@ img {
     font-weight: var(--font-bold);
   }
   .logo__initials{
-    font-size: 2.3rem !important;
-    color: yellow !important;
+    font-size: 2rem !important;
+    font-weight: var(--font-bold);  
+  }
+  .logo__text{
+    font-size: 2rem !important;
     font-weight: var(--font-bold);  
   }
   .nav__menu{
@@ -1342,6 +1408,14 @@ img {
   .home__scroll{
     grid-column: 1 / -1;
     grid-column: 1 / 3;
+  }
+  .inputs {
+    width: 70%;
+    margin: 0 auto;
+  }
+  .submit__button {
+    width: 70%;
+    margin: 0 auto;
   }
  
 }

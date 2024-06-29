@@ -989,6 +989,14 @@ img {
   height: 250px;
   margin: 3rem auto;
 }
+.services__icon {
+  font-size: 3rem;
+  color: var(--color41-chic-blue-dark) !important;
+}
+.dark-theme .services__icon {
+  font-size: 3rem;
+  color: aqua !important;
+}
 
 /*^ =============== CONTACT =============== ^*/
 .contact__container{

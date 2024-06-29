@@ -389,10 +389,10 @@ body {
 }
 .theme-button:hover {
   color: var(--color12-blue-black) !important;
-  border: 1px solid var(--color12-blue-black);
+  border: 1px solid hsl(210, 29%, 38%) !important;
   font-size: larger;
   background-color: var(--color10-sea-foam7) !important;
-  outline: 3px solid var(--color12-blue-black) !important;
+  outline: 3px solid hsl(210, 29%, 38%)  !important;
   outline-offset: 3px;
 }
 .dark-theme .theme-button {
@@ -488,6 +488,7 @@ body {
 
 main .words {
   color: hsla(215, 15%, 15%)!important;
+  text-align: justify;
 }
 
 .importance {
@@ -982,6 +983,13 @@ img {
   font-size: var(--h3-font-size);
   margin-bottom: .75rem;
 }
+/*^ ----------- Icons ------------ ^*/
+.musco__icon{
+  width: 250px;
+  height: 250px;
+  margin: 3rem auto;
+}
+
 /*^ =============== CONTACT =============== ^*/
 .contact__container{
   row-gap: 4rem;

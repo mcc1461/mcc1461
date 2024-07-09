@@ -56,7 +56,7 @@ Together, we can create something amazing.
 
 | Project           | Libraries and Technologies     | Repo Link          | Live Platform             | Preview                |
 |-------------------|--------------------------------|--------------------|---------------------------|------------------------|
-|**Express Routers**|  Express | [Repo](https://github.com/mcc1461/express-routers) | 'No link available' | <img src="https://github.com/mcc1461/express-routers/blob/main/express-routers.gif" width="250px">
+|**Express Routers**|  Express, Routing, Nested Routes | [Repo](https://github.com/mcc1461/express-routers) | 'No link available' | <img src="https://github.com/mcc1461/express-routers/blob/main/express-routers.gif" width="250px">
 
 ## ***Frontend Projects***
 

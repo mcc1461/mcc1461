@@ -57,7 +57,7 @@ Together, we can create something amazing.
 | Project           | Libraries and Technologies     | Repo Link          | Live Platform             | Preview                |
 |-------------------|--------------------------------|--------------------|---------------------------|------------------------|
 |**Express Routers**|  Express, Routing, Nested Routes, Filtering| [Repo](https://github.com/mcc1461/express-routers) | 'No link available' | <img src="https://github.com/mcc1461/express-routers/blob/main/express-routers.gif" width="250px">
-|**Backend Emails**|  Express, Nodemailer, Gmail, Path | [Repo](https://github.com/mcc1461/backend-emails) | 'No link available' | <img src="https://github.com/mcc1461/express-routers/blob/main/backend-emails.gif" width="250px">
+|**Backend Emails**|  Express, Nodemailer, Gmail, Path | [Repo](https://github.com/mcc1461/backend-emails) | 'No link available' | <img src="https://github.com/mcc1461/backend-emails/blob/main/backend-emails.gif" width="250px">
 
 ## ***Frontend Projects***
 

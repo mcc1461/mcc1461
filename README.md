@@ -71,7 +71,7 @@ Together, we can create something amazing.
 | **Mcc Button1** | HTML, CSS | [Repo](https://github.com/mcc1461/button-effect1) | 'No link available' | <img src="https://github.com/mcc1461/button-effect1/blob/main/button-style1.gif" width="250px">
 | **Router 6.4 v2** | HTML, CSS, Vite, Tailwind Css, React-Router | [Repo](https://github.com/mcc1461/router_6_4_v2) | 'No link available' | <img src="https://github.com/mcc1461/router_6_4_v2/blob/main/router_6_4_v2.gif" width="250px"> 
 | **React Router 6.4** | HTML, CSS, React-Router, React-Select | [Repo](https://github.com/mcc1461/react_router_6_4) | 'No link available' | <img src="https://github.com/mcc1461/react_router_6_4/blob/main/router__6_4.gif" width="250px"> 
-| **Redux Counter** | React, Redux, Javascript, Tailwind CSS | [Repo](https://github.com/mcc1461/redux-counter) | [Vercel](https://vercel.com/mcc-projects-777/redux-counter/BFjCZbgdpSaipCaAWdjzaddkPpKj) | <img src="https://github.com/mcc1461/redux-counter/blob/main/redux-counter.gif" width="250px"> 
+| **Redux Counter** | React, Redux, Javascript, Tailwind CSS | [Repo](https://github.com/mcc1461/redux-counter) | [Vercel](https://redux-counter-qrrxtwicf-mcc-projects-777.vercel.app/) | <img src="https://github.com/mcc1461/redux-counter/blob/main/redux-counter.gif" width="250px"> 
 
 
 # 📊 GitHub Stats:

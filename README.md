@@ -50,7 +50,7 @@ Together, we can create something amazing.
 
 | Project           | Libraries and Technologies     | Repo Link          | Live Platform             | Preview                |
 |-------------------|--------------------------------|--------------------|---------------------------|------------------------|
-|**MusCo-Auth-App**     | Node.js, Expres.js, React.js, MongoDB, JWT, Bcrypt              | [Repo](https://github.com/mcc1461/auth) | [Vercel](https://authfe.vercel.app) [Render](https://auth-mfsq.onrender.com) | <img src="https://github.com/mcc1461/auth/blob/main/mern-auth.gif" width="250px">
+|**Authorization App**     | Node.js, Expres.js, React.js, MongoDB, JWT, Bcrypt              | [Repo](https://github.com/mcc1461/auth) | [Vercel](https://authfe.vercel.app) [Render](https://auth-mfsq.onrender.com) | <img src="https://github.com/mcc1461/auth/blob/main/mern-auth.gif" width="250px">
 
 ## ***Backend Projects***
 

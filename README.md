@@ -73,6 +73,11 @@ Together, we can create something amazing.
 | **React Router 6.4** | HTML, CSS, React-Router, React-Select | [Repo](https://github.com/mcc1461/react_router_6_4) | 'No link available' | <img src="https://github.com/mcc1461/react_router_6_4/blob/main/router__6_4.gif" width="250px"> 
 | **Redux Counter** | React, Redux, Javascript, Tailwind CSS | [Repo](https://github.com/mcc1461/redux-counter) | [Vercel](https://redux-counter-qrrxtwicf-mcc-projects-777.vercel.app/) | <img src="https://github.com/mcc1461/redux-counter/blob/main/redux-counter.gif" width="250px"> 
 
+## ***Other Snippets & Learnings***
+
+| Snippet & Learning           | Libraries and Technologies     | Repo Link          | Live Platform             | Preview                |
+|-------------------|--------------------------------|--------------------|---------------------------|------------------------|
+|**Fixing Styles Loading Error**|  HTML, CSS, JS, React, Vite, Google Fonts | [Repo](https://github.com/mcc1461/styles-loading-issue-demo) | 'No link available'  | <img src="https://github.com/mcc1461/react-todo/blob/main/react-todo.gif"  width="250px">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

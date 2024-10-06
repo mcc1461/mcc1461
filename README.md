@@ -51,7 +51,7 @@ Together, we can create something amazing.
 | Project           | Libraries and Technologies     | Repo Link          | Live Platform             | Preview                |
 |-------------------|--------------------------------|--------------------|---------------------------|------------------------|
 |**Authorization App**     | Node.js, Expres.js, React.js, MongoDB,  Bcrypt, JWT              | [Repo](https://github.com/mcc1461/auth) | [Vercel](https://authfe.vercel.app) [Render](https://auth-mfsq.onrender.com) | <img src="https://github.com/mcc1461/auth/blob/main/mern-auth.gif" width="250px">
-|**MusCo Portfolio**     | Node.js, Expres.js, React.js, MongoDB,  Bcrypt, JWT, EmailJS, Canva              | [Repo](https://github.com/mcc1461/mcfolio) | [Hostinger](https://musco.dev) | <img src="https://github.com/mcc1461/mcfolio/blob/main/mucoPortfolio2.gif" width="250px">
+|**MusCo Portfolio**     | Node.js, Expres.js, React.js, MongoDB,  Bcrypt, JWT, EmailJS, Canva              | [Repo](https://github.com/mcc1461/mcfolio) | [Hostinger](https://musco.dev) | <img src="https://github.com/mcc1461/mcfolio/blob/main/mucoPortfolio.gif" width="250px">
 
 
 ## ***Backend Projects***

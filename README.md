@@ -85,7 +85,7 @@ Together, we can create something amazing.
 
 | Project          | Libraries and Technologies     | Repo Link          | Live Platform             | Preview                |
 |-------------------|--------------------------------|--------------------|---------------------------|------------------------|
-|**Wise Roll**|  HTML, CSS, JS, Python, PyScript | [Repo](https://github.com/mcc1461/wise-roll) | [Vercel]([https://mcc1461.com/survey](https://wise-roll2.vercel.app/))  | <img src="https://github.com/mcc1461/wise-roll/blob/main/wise-roll.gif"  width="250px">
+|**Wise Roll**|  HTML, CSS, JS, Python, PyScript | [Repo](https://github.com/mcc1461/wise-roll) | [Vercel](https://wise-roll2.vercel.app/)  | <img src="https://github.com/mcc1461/wise-roll/blob/main/wise-roll.gif"  width="250px">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mcc1461&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

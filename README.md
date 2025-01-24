@@ -8,7 +8,7 @@ Along with front-end development, I specialize on MERN stack and full-stack deve
 
 Together, we can create something amazing.
 
-🔭 I’m currently working on "stock-app and blog-app"<br>👯 I’m looking to collaborate on "MUI and React related issues"<br>🤝 I’m looking for help with "Redux usage"<br>🌱 I’m currently learning "MERN"<br>💬 Ask me about "JavaScript, HTML, and CSS"<br>⚡ Familiar with "AXIOS, TAILWIND, BOOTSTRAP, FORMIK, YUP, SWAGGER..."
+🔭 I’m currently developing "stock-app and blog-app"<br>👯 I’m looking to collaborate on "MUI and React related issues"<br>🤝 I’m looking for help with "Redux usage"<br>🌱 I’m currently improving my "MERN" studies.<br>💬 Ask me about "JavaScript, HTML, and CSS"<br>⚡ Familiar with "AXIOS, TAILWIND, BOOTSTRAP, FORMIK, YUP, SWAGGER..."
 ---
 [![](https://visitcount.itsvg.in/api?id=mcc1461&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:

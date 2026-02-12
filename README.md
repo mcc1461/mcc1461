@@ -53,7 +53,7 @@ Together, we can create something amazing.
 |**Authorization App**     | Node.js, Expres.js, React.js, MongoDB,  Bcrypt, JWT              | [Repo](https://github.com/mcc1461/auth) | [Vercel](https://authfe.vercel.app) [Render](https://auth-mfsq.onrender.com) | <img src="https://github.com/mcc1461/auth/blob/main/mern-auth.gif" width="250px">
 |**MusCo Portfolio**     | Node.js, Expres.js, React.js, MongoDB,  Bcrypt, JWT, EmailJS, Canva              | [Repo](https://github.com/mcc1461/mcfolio) | [Hostinger](https://musco.dev) | <img src="https://github.com/mcc1461/mcfolio/blob/main/muscoPortfolio.gif" width="250px">
 |**MusCo Store**     | Node.js, Expres.js, React.js, MongoDB,  Argon2, JWT, Multer, Sharp, AWS, Firebase, EmailJS, Canva              | [Repo](https://github.com/mcc1461/mcStore) | [AWS](https://softrealizer.com) | <img src="https://github.com/mcc1461/mcStore/blob/main/musco-store.gif" width="250px">
-|**LONCA Kurumsal**     | Node.js, Expres.js, React.js, MongoDB,  Argon2, JWT, Multer, Sharp, AWS, Firebase, EmailJS, Canva              | [Repo](https://github.com/mcc1461/mcStore) | [Hostinger](https://loncakurumsal.com) | <img src="https://github.com/mcc1461/mcStore/blob/main/musco-store.gif" width="250px">
+|**LONCA Kurumsal**     | React 18 (Vite + TypeScript), Tailwind CSS, Framer Motion, React-i18next, Node.js, Express.js, MongoDB (+Mongoose), JWT, Nodemailer, Multer, Firebase, PM2, Nginx | [Repo](https://github.com/mcc1461/mcStore) | [Hostinger](https://loncakurumsal.com) | <img src="https://github.com/mcc1461/mcStore/blob/main/musco-store.gif" width="250px">
 
 
 
